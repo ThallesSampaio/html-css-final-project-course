@@ -1,0 +1,29 @@
+.raça{
+    padding-bottom: 25px;
+    border: 2px solid;
+    border-color: black;
+    width: 260px;
+    height: 24px;
+    text-align: center;
+    color: white;
+   background: rgb(49, 49, 49);
+ }
+ 
+ .colum-profile{
+     margin-left: 40px;
+ }
+ 
+ .colum-aboutme{
+     padding-left: 35px;
+     padding-top: 20px;
+     padding-right: 350px;
+ }
+ 
+ .field.one{
+     padding-left: 20px;
+     height: 300px;
+ }
+ 
+ .control{
+     margin-top: 10px;
+ }
